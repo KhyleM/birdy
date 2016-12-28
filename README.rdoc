@@ -3,6 +3,6 @@
 Birdy is a functional clone of twitter. It allows you to register, find other users, post, tweet, and more. It was made using
 Ruby on Rails.
 
-![ScreenShot](https:///sli.mg/Y7EBqn)
+![Birdy](https://sli.mg/Y7EBqn)
 
 <tt>rake doc:app</tt>.
