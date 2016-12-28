@@ -1,8 +1,7 @@
 == Birdy
 
-Birdy is a functional clone of twitter. It allows you to register, find other users, post, tweet, and more. It was made using
-Ruby on Rails.
+Birdy is a fully functional clone of Twitter, using Ruby on Rails. It allows you to register, find other users, post, tweet, and more.
 
-![Birdy](https://sli.mg/Y7EBqn)
+![Birdy](https://i.sli.mg/Y7EBqn.jpg)
 
 <tt>rake doc:app</tt>.
